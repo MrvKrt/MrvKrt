@@ -6,7 +6,11 @@
 </a>
 <a href="https://twitter.com/MrvKrt7" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://steamcommunity.com/id/mrvkrt/" target="_blank">
+<img src=https://img.icons8.com/color/2x/steam.png style="margin-bottom: 5px;" />
+</a>
+
   
 
 
