@@ -55,10 +55,10 @@ I’m a Ph.D. candidate at Eskisehir Osmangazi University. I am currently workin
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" />  
-</div>  
 
-<br/>  
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mrvkrt(7)&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
