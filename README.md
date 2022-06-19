@@ -27,7 +27,7 @@ I’m a Ph.D. candidate at Eskisehir Osmangazi University. I am currently workin
 - 🌌 I’m currently learning Arduino, C# and R  
   
 
-- 🛰️ Interesting fact: I don't like to sleep   
+- 🛰️ Interesting fact: I *love* to play video games
 
 
 </td><td valign="top" width="50%">
