@@ -13,7 +13,7 @@
 
 
 ### Glad to see you here!  
-I’m a Ph.D. candidate at Eskisehir Osmangazi University. I am currently working on a project about developing a dynamic microsimulation model. 💾  
+I’m a Ph.D. candidate at Eskisehir Osmangazi University and visiting researcher National University of Galway. I am currently working on a project about developing a dynamic microsimulation model. 💾  
   
 
 <br/>  
@@ -28,13 +28,13 @@ I’m a Ph.D. candidate at Eskisehir Osmangazi University. I am currently workin
 - 🌌 I’m currently learning Arduino, C# and R  
   
 
-- 🛰️ Interesting fact: I *love* to play video games
+- 🛰️ Interesting fact: I *love* Ireland ☘️
 
 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://thumbs.gfycat.com/MeatyDiscreteCrustacean.webp" align="center" style="width: 100%" />
+<img src="[https://thumbs.gfycat.com/MeatyDiscreteCrustacean.webp](https://www.alphabetagamer.com/wp-content/uploads/2016/09/the-house-abandon-game.gif)" align="center" style="width: 100%" />
 </div>  
 
 
